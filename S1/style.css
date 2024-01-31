@@ -42,7 +42,7 @@ body{
 
 .slider-animals .slide1 .description{
     margin: 10px;
-    font-size: 24px;
+    font-size: 1vw;
 }
 
 .arrow {
@@ -150,9 +150,9 @@ body{
 }
 
 .found-animals-element img{
-    max-width: 9vw;
+    max-width: 13vw;
     border-radius: 10px;
-    min-height: 7vw;
+    min-height: 10vw;
 }
 
 .found-animals-block{
@@ -165,7 +165,7 @@ body{
 .found-animals-element-text{
     flex-direction: column;
     margin-left: 10px;
-    font-size: 20px;
+    font-size: 1.2vw;
 }
 
 footer{
